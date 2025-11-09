@@ -26,4 +26,4 @@ Repositorio del preprint **“Predicciones espectroscópicas y composición del 
 2. Activa **GitHub Pages** desde la rama `main` (carpeta raíz).  
 3. Reemplaza `docs/predicciones_3I_ATLAS.pdf` por tu PDF definitivo.  
 4. Verifica los badges DOI y la visualización en `/`.
-Apoyo al proyecto: [☕ Ko-fi / GenaroCarrasco](https://ko-fi.com/genarocarrasco)
+
