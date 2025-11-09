@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Predicciones espectroscópicas y composición del objeto interestelar 3I/ATLAS",
+  "identifier": "https://doi.org/10.5281/zenodo.17561711",
+  "author": {
+    "@type": "Person",
+    "name": "Genaro Carrasco Ozuna",
+    "identifier": "https://orcid.org/0009-0005-6358-9910",
+    "email": "genarocarrasco.ozuna@gmail.com",
+    "telephone": "+52 1 667 123 4567",
+    "affiliation": "Proyecto TCDS / Motor Sincrónico de Luz (MSL), México"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "description": "Preprint con las predicciones de composición del objeto interestelar 3I/ATLAS basado en observaciones JWST, ESA y modelo termofísico del Proyecto TCDS.",
+  "keywords": [
+    "3I/ATLAS",
+    "cometa interestelar",
+    "JWST",
+    "CO2",
+    "H2O",
+    "TCDS",
+    "Motor Sincrónico de Luz",
+    "coherencia astrofísica",
+    "modelo termofísico",
+    "Genaro Carrasco Ozuna"
+  ],
+  "url": "https://github.com/geozunac3536-jpg/TCDS_Convergencia",
+  "funding": {
+    "@type": "MonetaryGrant",
+    "funder": "Ko-fi",
+    "url": "https://ko-fi.com/genarocarrasco"
+  },
+  "dateCreated": "2025-11-09"
+}
