@@ -1,0 +1,78 @@
+
+\documentclass[12pt]{article}
+\usepackage[margin=2.3cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\setstretch{1.15}
+
+\begin{document}
+
+\begin{center}
+{\Large\bf Predicciones espectroscópicas y composición del objeto interestelar 3I/ATLAS}\\[0.5em]
+{\normalsize Genaro Carrasco Ozuna \\ Proyecto TCDS / Motor Sincrónico de Luz (MSL), México \\[0.25em]
+ORCID: \href{https://orcid.org/0009-0005-6358-9910}{0009-0005-6358-9910} \\ DOI: \href{https://doi.org/10.5281/zenodo.17505875}{10.5281/zenodo.17505875}}
+\end{center}
+
+\section*{Resumen}
+Se presentan predicciones cuantitativas de la composición y evolución de la coma del objeto interestelar \textbf{3I/ATLAS} durante su fase post-perihelio (noviembre 2025–enero 2026). Con base en observaciones previas de JWST, NASA y ESA, que indican una coma dominada por \(\mathrm{CO_2}\) con presencia secundaria de \(\mathrm{H_2O}\), \(\mathrm{CO}\) y trazas de \(\mathrm{OCS}\), se derivan tasas de producción \(Q_i\), leyes de variación con la distancia heliocéntrica y líneas espectrales esperadas por instrumento. El propósito es proporcionar una guía predictiva para las próximas campañas de observación desde satélites y sondas planetarias.
+
+\section{Modelo termofísico simplificado}
+El flujo solar en función de la distancia heliocéntrica \(r\) se expresa como:
+\[
+(1-A)\frac{F_\odot(1\,\mathrm{au})}{r^2}\cos\theta = \epsilon\sigma T^4 + \sum_i Z_i(T)L_i,
+\]
+con \(i\in\{\mathrm{H_2O, CO_2, CO}\}\).
+Se adoptan leyes de potencia empíricas para las tasas globales de sublimación:
+\[
+Q_i(r) = Q_i(r_0)\left(\frac{r}{r_0}\right)^{-m_i},
+\]
+donde los exponentes se estiman como:
+\[
+m_{\mathrm{H_2O}}\approx 3\!-\!4,\qquad
+m_{\mathrm{CO_2}}\approx 1\!-\!2,\qquad
+m_{\mathrm{CO}}\approx 1\!-\!1.5.
+\]
+La consecuencia física es un aumento progresivo de la razón \(Q_{\mathrm{CO_2}}/Q_{\mathrm{H_2O}}\) conforme el objeto se aleja del Sol tras el perihelio (\(t_p=2025\text{-}10\text{-}30\), \(r_p\simeq1.4\,\mathrm{au}\)).
+
+\section{Ventanas de observación y plataformas}
+Las fechas útiles abarcan del 10 de noviembre de 2025 al 31 de enero de 2026. Se contemplan las siguientes plataformas:
+\begin{itemize}
+\item \textbf{JWST} (NIRSpec/MIRI, 2.7–5.3 µm)
+\item \textbf{HST} (STIS/COS, 308–388 nm)
+\item \textbf{ExoMars TGO / Mars Express} (fotometría IR y óptica desde órbita marciana)
+\item \textbf{JUICE} (fotometría multibanda según geometría)
+\end{itemize}
+
+\section{Predicciones cuantitativas}
+\begin{table}[h!]
+\centering
+\caption{Rangos esperados de producción \(Q_i\) relativos (moléculas s\(^{-1}\)) y líneas diagnósticas.}
+\begin{tabular}{@{}lllll@{}}
+\toprule
+\textbf{Periodo (2025–26)} & \(r_\odot\) (au) & \(Q_{\mathrm{CO_2}}/Q_{\mathrm{H_2O}}\) & \(Q_{\mathrm{CO}}/Q_{\mathrm{H_2O}}\) & \textbf{Bandas dominantes} \\
+\midrule
+15–30 nov & 1.5–1.7 & 6–15 & 0.2–0.6 & CO\(_2\) 4.26 µm, H\(_2\)O 2.7–3.1 µm \\
+diciembre & 1.7–2.1 & 10–25 & 0.3–0.7 & CO 4.67 µm, [OI] 557.7/630.0 nm \\
+enero     & 2.1–2.6 & 15–40 & 0.4–0.9 & CO\(_2\) 4.26 µm, continuo 4–5 µm \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Criterios de falsación}
+\begin{enumerate}
+\item \(Q_{\mathrm{H_2O}}\approx Q_{\mathrm{CO_2}}\) sostenido post-perihelio \(\rightarrow\) exposición de hielo de agua.
+\item Intensidad de CN comparable a cometas solares \(\rightarrow\) composición nitrogenada elevada.
+\item Exponente \(m_{\mathrm{CO_2}}>3\) requerido por datos \(\rightarrow\) modelo termofísico insuficiente.
+\end{enumerate}
+
+\section*{Licencia y DOI}
+CC BY 4.0 — © Genaro Carrasco Ozuna, 2025.  
+Repositorio GitHub: \href{https://github.com/geozunac3536-jpg/TCDS_Convergencia}{TCDS\_Convergencia}  
+DOI: \href{https://doi.org/10.5281/zenodo.17520491}{10.5281/zenodo.17520491}
+
+\end{document}
