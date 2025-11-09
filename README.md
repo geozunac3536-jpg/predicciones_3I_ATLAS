@@ -5,7 +5,7 @@
 **Autor:** Genaro Carrasco Ozuna  
 **Afiliación:** Proyecto TCDS /  TMRCU, México  
 **Correo:** [geozunac3536@gmail.com](mailto:geozunac3536@gmail.com)  
-**Teléfono:** +52 1 667 123 4567  
+**Teléfono:** +528125989868
 **Ko‑fi:** [https://ko-fi.com/genarocarrasco](https://ko-fi.com/genarocarrasco)  
 **ORCID:** [https://orcid.org/0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)  
 **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
