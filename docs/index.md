@@ -21,7 +21,7 @@
       "identifier": "https://orcid.org/0009-0005-6358-9910",
       "email": "geozunac3536@gmail.com",
       "telephone": "+52 812 598 9868",
-      "affiliation": "Proyecto TCDS / Motor Sincrónico de Luz (MSL), México"
+      "affiliation": "Proyecto TCDS /  TMRCU, México"
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"
   }
