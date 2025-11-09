@@ -11,18 +11,3 @@ Repositorio del preprint **“Predicciones espectroscópicas y composición del 
 - **Correo:** [geozunac3536@gmail.com](mailto:geozunac3536@gmail.com) • **Teléfono:** +52 812 598 9868  
 - **Ko‑fi:** [https://ko-fi.com/genarocarrasco](https://ko-fi.com/genarocarrasco)
 
-## Estructura
-- `index.html` — portada en **tema oscuro** con enlace y visor del PDF.  
-- `style-dark.css` — tema oscuro con **contrastes acerados granulares**.  
-- `docs/predicciones_3I_ATLAS.pdf` — PDF del preprint. **Sustituye este archivo con el PDF final** exportado de LaTeX o descargado de Zenodo.  
-- `CITATION.cff` — metadatos de citación.  
-- `metadata.jsonld` — Schema.org para indexación.  
-- `LICENSE-CC-BY-4.0` — licencia para contenidos textuales.  
-- `LICENSE-MIT` — licencia para código del sitio.  
-- `robots.txt` y `sitemap.xml` — indexación web.
-
-## Cómo publicar
-1. Sube este repositorio a GitHub como `predicciones_31_ATLAS`.  
-2. Activa **GitHub Pages** desde la rama `main` (carpeta raíz).  
-3. Reemplaza `docs/predicciones_3I_ATLAS.pdf` por tu PDF definitivo.  
-4. Verifica los badges DOI y la visualización en `/`.
