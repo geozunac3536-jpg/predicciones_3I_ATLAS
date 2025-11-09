@@ -3,8 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17561711.svg)](https://doi.org/10.5281/zenodo.17561711)
 
 **Autor:** Genaro Carrasco Ozuna  
-**Afiliación:** Proyecto TCDS / Motor Sincrónico de Luz (MSL), México  
-**Correo:** [genarocarrasco.ozuna@gmail.com](mailto:genarocarrasco.ozuna@gmail.com)  
+**Afiliación:** Proyecto TCDS /  TMRCU, México  
+**Correo:** [genarocarrasco.ozuna@gmail.com](mailto:geozunac3536@gmail.com)  
 **Teléfono:** +52 1 667 123 4567  
 **Ko‑fi:** [https://ko-fi.com/genarocarrasco](https://ko-fi.com/genarocarrasco)  
 **ORCID:** [https://orcid.org/0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)  
