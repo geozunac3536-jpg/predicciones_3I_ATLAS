@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si utilizas este trabajo, por favor cita la siguiente referencia."
+authors:
+  - family-names: Carrasco Ozuna
+    given-names: Genaro
+    affiliation: Proyecto TCDS / Motor Sincrónico de Luz (MSL), México
+    orcid: https://orcid.org/0009-0005-6358-9910
+title: Predicciones espectroscópicas y composición del objeto interestelar 3I/ATLAS
+version: 1.0.0
+doi: 10.5281/zenodo.17561711
+date-released: 2025-11-09
+license: CC-BY-4.0
+repository-code: https://github.com/geozunac3536-jpg/TCDS_Convergencia
+contact:
+  email: genarocarrasco.ozuna@gmail.com
