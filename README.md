@@ -7,7 +7,7 @@
 
 Repositorio del preprint **“Predicciones espectroscópicas y composición del objeto interestelar 3I/ATLAS”**.
 
-- **Autor:** Genaro Carrasco Ozuna (Proyecto TCDS / Motor Sincrónico de Luz (MSL), México)  
+- **Autor:** Genaro Carrasco Ozuna (Proyecto TCDS / TMRCU (MSL), México)  
 - **Correo:** [geozunac3536@gmail.com](mailto:geozunac3536@gmail.com) • **Teléfono:** +52 812 598 9868  
 - **Ko‑fi:** [https://ko-fi.com/genarocarrasco](https://ko-fi.com/genarocarrasco)
 
